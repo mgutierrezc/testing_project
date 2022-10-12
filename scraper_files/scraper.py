@@ -1,1 +1,1 @@
-print("This is a scraper :)")
+print("This is a scraper")
